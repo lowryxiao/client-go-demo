@@ -1,0 +1,1 @@
+Demo for calling client-go to interact with k8s
